@@ -1,0 +1,3 @@
+C:/Users/Jason/Development/advent-of-code/day-8/cmake-build-debug-mingw/CMakeFiles/day_8.dir
+C:/Users/Jason/Development/advent-of-code/day-8/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/Jason/Development/advent-of-code/day-8/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
