@@ -1,0 +1,10 @@
+^C:\USERS\JASON\DEVELOPMENT\ADVENT-OF-CODE\DAY-8\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\E3290FD63E2875E014E8CFA5B96186D3\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -SC:/Users/Jason/Development/advent-of-code/day-8 -BC:/Users/Jason/Development/advent-of-code/day-8/cmake-build-debug-visual-studio --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Jason/Development/advent-of-code/day-8/cmake-build-debug-visual-studio/day_8.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
