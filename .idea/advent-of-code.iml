@@ -6,6 +6,11 @@
       <excludeFolder url="file://$MODULE_DIR$/day-9/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/day-9/cmake-build-debug/CMakeFiles/CMakeTmp" />
       <excludeFolder url="file://$MODULE_DIR$/day-10/cmake-build-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/day-1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdC/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/day-1/cmake-build-debug/CMakeFiles/3.23.2/CompilerIdCXX/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/day-1/cmake-build-debug/CMakeFiles/CMakeTmp" />
+      <excludeFolder url="file://$MODULE_DIR$/day-2/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/day-10/.idea" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

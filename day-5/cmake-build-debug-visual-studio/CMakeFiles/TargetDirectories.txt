@@ -1,3 +1,0 @@
-C:/Users/Jason/Development/advent-of-code/day-5/cmake-build-debug-visual-studio/CMakeFiles/day_5.dir
-C:/Users/Jason/Development/advent-of-code/day-5/cmake-build-debug-visual-studio/CMakeFiles/ALL_BUILD.dir
-C:/Users/Jason/Development/advent-of-code/day-5/cmake-build-debug-visual-studio/CMakeFiles/ZERO_CHECK.dir
